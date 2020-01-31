@@ -1,0 +1,2 @@
+# TextRainbow
+UnityでTextオブジェクトの文字を動く虹色に変更するスクリプト
